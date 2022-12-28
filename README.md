@@ -78,3 +78,9 @@ su -c "git config --global init.defaultBranch main" -l devilbox
 Nella cartella **cfg** trovi una serie infinita di sottocartelle, ognuna delle quali contiene dei file di esempio. Una volta capito come funzionano, per utilizzarli (magari per personalizzare MySQL o avviare l'installazione di un modulo aggiuntivo di PHP) devi semplicemente togliere "-example" dal nome del file (ovviamente dopo aver personalizzato il file con le impostazioni che ti servono).
 
 Come inizio direi che può bastare.
+
+## Documentazione
+
+La documentazione di Devilbox si trova [qui](https://devilbox.readthedocs.io/en/latest/).
+
+La repository di Devilbox si trova [qui](https://github.com/cytopia/devilbox).
